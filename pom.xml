@@ -7,13 +7,4 @@
   <artifactId>halcyon-dependency</artifactId>
   <version>1.0</version>
   <description>Halcyon Dependencies</description>
-  <dependencies>
-    <dependency>
-      <groupId>com.jackmeng</groupId>
-      <artifactId>halcyon-dependency-1.0</artifactId>
-      <version>1.0</version>
-      <scope>system</scope>
-      <systemPath>${project.basedir}/halcyon-dependency-1.0.jar</systemPath>
-    </dependency>
-  </dependencies>
 </project>
